@@ -1,4 +1,3 @@
 # Here there be notes!
-![image](.attachments/90fb6199bb8863fd8ab9eb8ed23789eec0f77beb.webp) 
-
+![image](.attachments/4ffd200ff094fe25565636335dfe44d8e3a0ed4e.jpg) 
 Powered by [Notes Hub](https://about.noteshub.app/)
