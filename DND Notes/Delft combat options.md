@@ -54,16 +54,13 @@ Boss fight, double maximum burn down mode in two turns
   - [Booming Blade](https://www.aidedd.org/dnd/sorts.php?vo=booming-blade) -> 2d8+3
   - Black needle -> 2d8+3+7
 - Sneak attack -> 4d6+3
+- Drop [Hold Person](https://roll20.net/compendium/dnd5e/Hold%20Person#content)
 - Step away from target 1 square, target follows
-  - Booming Blade dmg -> 4d8+3
-  - Brace -> 2d8+3+7+2d6+3
+  - Booming Blade dmg -> 2d8+3
+  - Brace -> 1d8+3+7+1d6+3
 
-**Total: 10d6 + 10d8 + 35
-(Avg = 105, Max = 175, Min = 55)**
-
-
-
-
+**Total: 9d6 + 7d8 + 35
+(Avg = 90, Max = 145, Min = 51)**
 
 
 
